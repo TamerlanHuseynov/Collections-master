@@ -1,0 +1,4 @@
+Hello,
+I am text file.
+I live a happy life.
+My purpose is to be read.
